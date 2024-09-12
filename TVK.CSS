@@ -1,0 +1,246 @@
+.main{
+    /* width: 80%; */
+}
+.first{
+background-image: url(./IMG-20240828-WA0009.jpg);
+background-repeat: no-repeat;
+height: 700px;
+
+width: 100vh;
+
+background-position: center;
+margin: auto;
+}
+.font{
+display: flex;
+justify-content: space-between;
+text-align: center;
+
+
+}
+.ddr{
+  display: flex;
+  gap: 5px;
+}
+
+
+.fone div{
+  margin-left: 20px;
+}
+.home{
+  display: flex;
+  margin-right: 60px;
+  justify-content: space-between;
+  align-items: center;
+}
+.home h3{
+  padding-left: 20px;
+}
+.fristone{
+text-align: center;
+padding-top: 100px;
+/* width: 475px; */
+margin:auto;
+/* display: flex; */
+}
+.second{
+    padding-top: 50px;
+    width: 250px;
+    text-align: center;
+    color: grey;
+    margin: auto;
+}
+.third{
+    text-align: center;
+    width: 550px; 
+    margin: auto;
+    color: grey; 
+}
+
+.fifth {
+    display: flex;
+ text-align: center;
+    width: 800px;
+    margin: 0 auto;
+    justify-content: center;
+    color: grey;
+}
+.fitwo{
+  
+  display: flex;
+  text-align: center;
+    margin: 0 auto;
+     justify-content: center;
+     color: grey;
+ }
+
+}
+.fione,.fithree{
+    height: 100px;
+    width: 100px;
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25px;
+    padding-left: 50px;
+    
+    }
+    h6{
+        color: rgb(221, 69, 69);
+    }
+    .sixth {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        background: linear-gradient(90deg, #f73f07, #f2c94c);
+       width: 800px;
+       height: 250px;
+       margin: auto;
+    }
+    .dd-one {
+        text-align: center;
+        color: white;
+    }
+    
+    .dd-one b {
+        font-size: 36px;
+        margin-bottom: 10px;
+    }
+    
+    .dd-one h2 {
+        font-size: 48px;
+        margin: 5px 0;
+    }
+    
+    .dd-one p {
+        font-size: 12px;
+        margin: 0;
+        letter-spacing: 1px;
+    }
+    .seventh{
+        text-align: center;
+        color: rgb(99, 99, 99);
+        padding-top: 50px;  
+    }
+    .eigth{
+        text-align: center;
+        color: rgb(148, 144, 144);
+        width: 450px;
+        margin:auto;
+    }
+    .nineth{
+        display: flex;
+        flex-wrap: wrap;
+        width: 700px;
+        margin-left: 350px;
+        justify-content: space-around;
+        margin: 0 auto;
+    }
+    .nineth div{
+width: 200px;
+
+    }
+    .th,.at,.hu,.ja,.nn,.nt{
+        height: 100px;
+        width: 100px !important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 25px;  
+  }
+  .tenth{
+    background-color: rgb(223, 220, 220);
+    height: 600px;
+    width: 1000px;
+    margin: auto;
+    
+  }
+  .t-one{
+    text-align: center;
+    
+  } 
+  .t-new{
+    text-align: center;
+    width: 400px;
+    margin-left: 350px;
+  }
+  .t-two{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  } 
+  .box1{
+    background-color: white;
+    height: 420px;
+    width: 300px;
+    text-align: center;
+ 
+}
+.box1 buttonf{
+  border:none;
+
+  }
+  .div00000{
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+   
+  
+  .twelveth{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    gap: 30px;
+  }
+  .thirteenth{
+    display: flex;
+   padding-left: 50px;
+   padding-right: 50px;
+   margin: auto;
+  }
+  .th-one{
+   
+  }
+  .th-two{
+    justify-content: right;
+    margin: auto;
+    color: #e6724e;
+  }
+
+  .missnew{
+    color: #f2c94c;
+  }
+  .misstwo{
+    color: white;
+    width: 200px;
+    height: 30px; 
+    background-color: #f2c94c; 
+    
+  }
+  
+.miss{
+    color: rgb(55, 207, 144);
+}
+.missone{
+    color: white;
+    width: 200px;
+    height: 30px; 
+    background-color: rgb(55, 207, 144);
+}
+.missq{
+    color: rgb(235, 101, 101);
+}
+.missthree{
+    color: white;
+    width: 200px;
+    height: 30px; 
+    background-color: rgb(235, 101, 101); 
+}
+.elevnth{
+font-size: 150%;
+text-align: center;
+}
+.thathujan{
+  margin-left: 350px;
+}
